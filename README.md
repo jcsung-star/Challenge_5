@@ -41,9 +41,6 @@ Go to the Anaconda Prompt to launch JupyterLab by typing Jupyter Lab. To use thi
 
 ---
 
-## Sample Visualization and Metrics
-
-
 ## Contributors
 
 
