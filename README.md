@@ -1,4 +1,4 @@
-# Module_5_Challenge | Financial Planning with APIs and Simulations
+# Financial Planning with APIs and Simulations
 
 In this challenge, I have created two financial analysis tools in a single Jupyter notebook:
 
